@@ -17,3 +17,4 @@ Soon... 👀
 # Release Notes
 ## Finally Released. The script is still in the first beta for it. Expect bugs & others.
 ## Also, heres a preview of the premium version's loader:
+![1000006939](https://github.com/aosthedev/VisualiseProduct/assets/129870122/57f7ed33-425e-4db0-8327-1fc80f5a3630)
