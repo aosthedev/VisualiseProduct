@@ -16,3 +16,4 @@ Soon... 👀
 
 # Release Notes
 ## Finally Released. The script is still in the first beta for it. Expect bugs & others.
+## Also, heres a preview of the premium version's loader:
