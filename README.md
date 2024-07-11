@@ -8,11 +8,8 @@
 
 # Blade Ball
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/aosthedev/VisualiseProduct/main/Releases/VisualiseBladeBallBeta0.1.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aosthedev/VisualiseProduct/main/Releases/VisualiseBladeBall0.2.txt"))()
 ```
-
-# Combat Warriors
-Soon... 👀
 
 # Release Notes
 ## Finally Released. The script is still in the first beta for it. Expect bugs & others.
