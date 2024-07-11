@@ -8,7 +8,7 @@
 
 # Blade Ball
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/aosthedev/VisualiseProduct/main/Releases/VisualiseBladeBall0.2.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aosthedev/VisualiseProduct/main/ThanksForUsing!/KeySystem/b-y-d-e-v-o-x-y/VisualiseBladeBall0.2.txt"))()
 ```
 
 # Release Notes
